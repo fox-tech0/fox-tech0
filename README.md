@@ -7,3 +7,5 @@
 <p>
     Hey, welcome to github page. Automation is really cool.
 </p>
+
+<img src='https://raw.githubusercontent.com/fox-tech0/fox-tech0/main/fox-tech.jpg' width='150'></img>
