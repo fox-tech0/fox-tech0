@@ -1,11 +1,19 @@
-<h1>Fox Tech</h1>
+```js
+const fox_tech = {
+    Languages: ["Python", "JavaScript", "C#"],
+    Websites: [
+        "https://fox-tech0.github.io",
+        "https://fox-tech.ml"
+    ],
+    Most Recent Project: {
+        "Hello.World": "https://fox-tech0.github.io/Hello.World/"
+    },
+    Hobbies: [
+        "Programming",
+        "Playing OMORI"
+    ]
+};
+```
 
-<a href="https://fox-tech.ml">
-  Personal Site
-</a>
+# Fox Tech
 
-<p>
-    Hey, welcome to github page. Automation is really cool.
-</p>
-
-<img src='https://raw.githubusercontent.com/fox-tech0/fox-tech0/main/fox-tech.jpg' width='150'></img>
