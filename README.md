@@ -49,7 +49,7 @@ using System;
 class Fox_Tech0 {
   public static void Main (string[] args) {
     public string[] languages = {"Python", "JavaScript", "C#"};
-    public string[] websites { "https://fox-tech0.github.io", "https://fox-tech.ml" };
+    public string[] websites = { "https://fox-tech0.github.io", "https://fox-tech.ml" };
     public string most_recent_project = "Hello.World: https://fox-tech0.github.io/Hello.World/";
     private string[] hobbies = {"Programming, Playing OMORI"};
   }
